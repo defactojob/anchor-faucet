@@ -1,0 +1,11 @@
+{
+  "name": "parrot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@project-serum/common": "^0.0.1-beta.3",
+    "@project-serum/serum": "^0.13.31",
+    "@solana/spl-token": "^0.1.1"
+  }
+}
